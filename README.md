@@ -3,5 +3,6 @@
 
 ### Create arrays and foreach loops
 
-![alt text](image.png)
+See line 13-17. `foreach` is used in this piece of code. 
 
+![alt text](image-1.png)
