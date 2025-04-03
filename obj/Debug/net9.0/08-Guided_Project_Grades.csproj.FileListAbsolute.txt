@@ -12,3 +12,4 @@ D:\coding_dojo\C Sharp\C#\CsharpProjects\08-Guided_Project_Grades\obj\Debug\net9
 D:\coding_dojo\C Sharp\C#\CsharpProjects\08-Guided_Project_Grades\obj\Debug\net9.0\08-Guided_Project_Grades.pdb
 D:\coding_dojo\C Sharp\C#\CsharpProjects\08-Guided_Project_Grades\obj\Debug\net9.0\08-Guided_Project_Grades.genruntimeconfig.cache
 D:\coding_dojo\C Sharp\C#\CsharpProjects\08-Guided_Project_Grades\obj\Debug\net9.0\ref\08-Guided_Project_Grades.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\08-Guided_Project_Grades\obj\Debug\net9.0\08-Guided_Project_Grades.sourcelink.json

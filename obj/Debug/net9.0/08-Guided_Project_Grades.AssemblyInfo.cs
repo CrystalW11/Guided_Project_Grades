@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08-Guided_Project_Grades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd0d0758067ea48780728c6bdfc633ea06a695a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("08-Guided_Project_Grades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08-Guided_Project_Grades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
